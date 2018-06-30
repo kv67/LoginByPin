@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">loginByPin</string>
+    <string name="btn_back">&lt;-</string>
+    <string name="pin_faild">Pin code is incorrect!</string>
 </resources>
